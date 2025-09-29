@@ -84,8 +84,7 @@ The analysis includes **data cleaning, visualization, and statistical exploratio
 - Visualizations with histograms, countplots, boxplots, heatmap, and pairplot  
 - Key insights on survival patterns documented  
 
-✔ Task fully completed as per internship guidelines 
-The project successfully demonstrates:  
+✔ Task fully completed as per internship guidelines and the project successfully demonstrates:  
 - Exploratory Data Analysis using **Python (Pandas, Seaborn, Matplotlib)**  
 - Detection of patterns and survival insights  
 - Usage of statistical and visualization techniques  
