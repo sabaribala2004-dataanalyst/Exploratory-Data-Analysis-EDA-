@@ -27,8 +27,7 @@ The analysis includes **data cleaning, visualization, and statistical exploratio
 
 - Source: Kaggle Titanic Dataset
 - File: `train.csv`  <a href="https://github.com/sabaribala2004-dataanalyst/Exploratory-Data-Analysis-EDA-/blob/main/train.csv"> Dataset File </a>
- 
-- Features include:  
+ - Features include:  
   - PassengerId  
   - Survived  
   - Pclass  
