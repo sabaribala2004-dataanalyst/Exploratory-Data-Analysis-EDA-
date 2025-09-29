@@ -26,7 +26,7 @@ The analysis includes **data cleaning, visualization, and statistical exploratio
 ## 📊 Dataset  
 
 - Source: Kaggle Titanic Dataset
-- File: `train.csv`  <a href=""> Dataset File </a>
+- File: `train.csv`  <a href="https://github.com/sabaribala2004-dataanalyst/Exploratory-Data-Analysis-EDA-/blob/main/train.csv"> Dataset File </a>
  
 - Features include:  
   - PassengerId  
@@ -70,9 +70,9 @@ The analysis includes **data cleaning, visualization, and statistical exploratio
 
 ## 📂 Output  
 
-- Jupyter Notebook: <a href=""> Dataset</a>
-- Report (PDF): <a href=""> Dataset</a>
-- Dataset: <a href=""> Dataset</a> 
+- Jupyter Notebook: <a href="https://github.com/sabaribala2004-dataanalyst/Exploratory-Data-Analysis-EDA-/blob/main/Titanic_EDA.ipynb">Titanic_EDA</a>
+- Report (PDF): <a href="https://github.com/sabaribala2004-dataanalyst/Exploratory-Data-Analysis-EDA-/blob/main/Titanic_EDA_Report.pdf">Titanic_EDA_Report</a>
+- Dataset: <a href="https://github.com/sabaribala2004-dataanalyst/Exploratory-Data-Analysis-EDA-/blob/main/train.csv"> Dataset File </a> 
 
 ---
 
