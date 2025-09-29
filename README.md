@@ -76,6 +76,15 @@ The analysis includes **data cleaning, visualization, and statistical exploratio
 ---
 
 ## ✅ Status  
+
+✔ All required EDA steps have been successfully completed:  
+- Data exploration with `.info()`, `.describe()`, `.value_counts()`  
+- Missing values identified and handled  
+- Univariate, bivariate, and multivariate analysis performed  
+- Visualizations with histograms, countplots, boxplots, heatmap, and pairplot  
+- Key insights on survival patterns documented  
+
+✔ Task fully completed as per internship guidelines 
 The project successfully demonstrates:  
 - Exploratory Data Analysis using **Python (Pandas, Seaborn, Matplotlib)**  
 - Detection of patterns and survival insights  
