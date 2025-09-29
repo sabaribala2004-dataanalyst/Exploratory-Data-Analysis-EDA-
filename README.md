@@ -1,2 +1,85 @@
-# Exploratory-Data-Analysis-EDA-
-Performed Exploratory Data Analysis (EDA) on the Titanic dataset using Python (Pandas, Matplotlib, Seaborn). Conducted data cleaning, handled missing values, and applied univariate, bivariate, and multivariate analysis with visualizations like heatmaps and pairplots to extract survival insights.
+# 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
+
+## 📌 Description  
+This project is part of a **Data Analyst Internship Task (Task 5)**.  
+The dataset used is the **Titanic dataset from Kaggle**, analyzed using **Python (Pandas, Matplotlib, Seaborn)**.  
+
+The main objective of this task was to perform **Exploratory Data Analysis (EDA)** to extract patterns, trends, and insights.  
+The analysis includes **data cleaning, visualization, and statistical exploration** to understand survival factors.  
+
+---
+
+## Key tasks performed  
+
+- Imported dataset into Jupyter Notebook.  
+- Explored dataset structure with `.info()` and `.describe()`.  
+- Checked **missing values** and handled them.  
+- Performed **univariate analysis** (histograms, countplots).  
+- Conducted **bivariate analysis** (survival vs. gender, class, age, etc.).  
+- Used **correlation heatmap** to identify relationships between features.  
+- Implemented **pairplot** to visualize multi-variable interactions.  
+- Plotted **boxplots** to detect outliers (e.g., Fare).  
+- Documented **key observations** from visualizations.  
+
+---
+
+## 📊 Dataset  
+
+- Source: Kaggle Titanic Dataset
+- File: `train.csv`  <a href=""> Dataset File </a>
+ 
+- Features include:  
+  - PassengerId  
+  - Survived  
+  - Pclass  
+  - Name  
+  - Sex  
+  - Age  
+  - SibSp  
+  - Parch  
+  - Ticket  
+  - Fare  
+  - Cabin  
+  - Embarked  
+
+---
+
+## 🛠️ EDA Steps  
+
+### 1. Data Exploration  
+- `.info()` → Checked data types and null values.  
+- `.describe()` → Summarized numerical features.  
+- `.value_counts()` → Analyzed categorical distribution.  
+
+### 2. Data Visualization  
+- **Univariate Analysis**  
+  - Age distribution histogram  
+  - Survival countplot  
+  - Boxplot for Fare  
+
+- **Bivariate Analysis**  
+  - Survival by Gender  
+  - Survival by Passenger Class  
+  - Survival by Embarked port  
+
+- **Multivariate Analysis**  
+  - Heatmap (correlation)  
+  - Pairplot (Age, Fare, Pclass vs Survived)  
+
+---
+
+## 📂 Output  
+
+- Jupyter Notebook: <a href=""> Dataset</a>
+- Report (PDF): <a href=""> Dataset</a>
+- Dataset: <a href=""> Dataset</a> 
+
+---
+
+## ✅ Status  
+The project successfully demonstrates:  
+- Exploratory Data Analysis using **Python (Pandas, Seaborn, Matplotlib)**  
+- Detection of patterns and survival insights  
+- Usage of statistical and visualization techniques  
+
+This ensures the dataset is fully **analysis-ready** and EDA skills are applied to real-world data.  
